@@ -1,0 +1,24 @@
+input[type="text"]:focus {
+  border: 2px solid rgb(241, 118, 118);
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  /* border-style: solid none none none; */
+  /* border-color: rgb(255, 255, 255); */
+}
+
+li {
+}
+
+/* .strike {
+  text-decoration: line-through;
+} */
